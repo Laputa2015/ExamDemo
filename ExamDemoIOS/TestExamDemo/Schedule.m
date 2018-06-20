@@ -10,6 +10,7 @@
 
 @implementation Schedule
 -(int)clean{
+    NSLog(@"clean");
     return 0;
 }
 
